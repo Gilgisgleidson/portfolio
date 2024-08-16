@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "titulo": "Jogo de Advinhação",
+        "texto": "> Acesse: <https://advinhacao-marcelo.vercel.app/> \n\n Essa aplicação é um jogo de advinhação. \n\n O objetivo é advinhar o número de 1 a 300 baseado nas dicas de “maior que” e “menor que” que o jogo fornece. \n\n Esse aplicativo foi desenvolvida utilizando JavaScript, HTML e CSS. \n\n",
+        "url": "https://advinhacao-marcelo.vercel.app/"
+    },
+    {
+        "id": 2,
+        "titulo": "Teclado de Sons",
+        "texto": "> Acesse: <https://sons-marcelo.vercel.app/> \n\n Essa aplicação é um teclado de sons. \n\n Cada tecla possui seu som único, que será reproduzido ao clicar. \n\n Essa aplicação foi desenvolvida utilizando JavaScript, HTML e CSS. \n\n",
+        "url": "https://sons-marcelo.vercel.app/"
+    },
+    {
+        "id": 3,
+        "titulo": "Spotify",
+        "texto": "> Acesse: <https://spotify-marcelo.vercel.app/> \n\n Essa aplicação é uma cópia visual da tela inicial do Spotify. \n\n O objetivo é reproduzir cada botão e estilo da tela inicial do Spotify, os botões, as animações, as telas e playlists. \n\n Essa aplicação foi desenvolvida utilizando React.js, JavaScript, HTML e CSS. \n\n",
+        "url": "https://spotify-marcelo.vercel.app/"
+    },
+    {
+        "id": 4,
+        "titulo": "Organo",
+        "texto": "> Acesse: <https://organo-marcelo.vercel.app/> \n\n Essa aplicação é um organizador de Equipes e Times \n\n A ideia é que ao preencher o formulário com Nome, Função e Equipe você consiga cadastrar uma pessoa em sua determinada equipe. \n\n É possível também adicionar uma imagem da internet ao copiar seu link. \n\n Essa aplicação foi desenvolvida em React.js, JavaScript, HTML e CSS. \n\n",
+        "url": "https://organo-marcelo.vercel.app/"
+    },
+    {
+        "id": 5,
+        "titulo": "Conta Vinculada",
+        "texto": "> Acesse: <https://contavinculada.com.br/> \n\n Essa aplicação é um organizador de Conta Vinculada. Eu fiz todo o design e o Front-end do site. \n\n Esse site foi desenvolvido usando JavaScript, HTML, CSS e Bootstrap. \n\n ",
+        "url": "https://contavinculada.com.br/"
+    }
+]

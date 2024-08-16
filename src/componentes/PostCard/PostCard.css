@@ -1,0 +1,36 @@
+.postCard {
+    text-align: center;
+    width: 282px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.08);
+    border-radius: 10px 10px 10px 10px;
+    padding-bottom: 1.5rem;
+    transition: transform .2s;
+    background-color: var(--laranja);
+}
+
+.postCard:hover {
+    transform: translate(0, -1rem);
+}
+
+.capa {
+    width: 100%;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.titulos {
+    font-family: var(--fonte-principal);
+    font-size: 1.25rem;
+    color: var(--branco);
+    line-height: 1.75rem;
+    margin: 1.5rem 0 1.75rem;
+    height: 50px;
+}
+
+@media (max-width: 1100px) {
+    .postCard {
+        width: 336px;
+    }
+    .titulos {
+        font-weight: 600;
+    }
+}
